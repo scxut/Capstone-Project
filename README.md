@@ -18,6 +18,7 @@
 	-Added Controllable Jumping 
 	-Fixed bug where player attack animation would trigger on key press but wouldn't damage enemies
 	-Working on wall jumping but its broken 
+	-Fixed a bug where enemies would fly into the air when attacking and then teleport back to the ground
 
 	Week4:
 	-Created a manager UI script that allows me to create menus easily 
@@ -42,6 +43,7 @@
 		-Credits - Referencing my software engineering partners/me
 		-Exit
 	-Fixed a bug where levels would fail to start (Renamed method from Start to StartGame)
+	-Removed Herobrine
 
 	Week7:
 	-Added a boss
@@ -50,7 +52,7 @@
 	-Finished the credits screen with a working button that takes you back to the main menu
 	-Created a game over screen that the player will see after defeating the boss
 	-broke the entire game :)
-	-fixed the game three hours later (restored backup, I would go into more depth but I don't understand how I did)
+	-fixed the game three hours later (don't understand how, I restarted unity and everything worked. Not questioning it)
 
 	Week8:
 	-Created a third level (i dont like game design :/ )
